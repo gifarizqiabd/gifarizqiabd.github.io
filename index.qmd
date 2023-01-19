@@ -1,0 +1,106 @@
+---
+title: "Analisis Pengaruh Ekspor Lada Putih ke Negara Amerika Serikat Terhadap Nilai Tukar Rupiah Tahun 2012-2021"
+subtitle: "Metode Penelitian Politeknik APP Jakarta"
+author: "Gifarizqi Abdullah"
+date: 2023-01-19
+number-sections: true
+format:
+  html: default
+  docx: default
+editor: visual
+---
+
+![](poltekapp.jpg)
+
+## Pendahuluan
+
+### Latar belakang
+
+Menurut Todaru, 2002:49, kegiatan perdagangan internasional yang memberikan rangsangan guna membutuhkan permintaan dalam negeri yang menyebabkan tumbuhnya industri-industri pabrik besar, bersamaan dengan struktur politik yang stabil dan lembaga sosial yang fleksibel. Berdasarkan uraian di atas, terlihat bahwa ekspor mencerminkan aktivitas perdagangan antarbangsa yang dapat memberikan dorongan dalam dinamika pertumbuhan perdagangan internasional, sehingga suatu negara-negara yang sedang berkembang kemungkinan untuk mencapai kemajuan perekonomian setaraf dengan negara-negara yang lebih maju. Oleh karena itu perdagangan internasional dianggap salah satu komponen penting perekonomian negara. Sejak dahulu hasil pertanian Indonesia dianggap salah satu sektor yang selalu berkontribusi pada perekonomian negara, salah satunya adalah Lada Putih. Komoditi yang sering dijuluki King of Spices memiliki nilai ekspor lada putih Indonesia mencapai US\$92,68 juta atau Rp1,44 triliun pada 2021 (sumber dari BPS).
+
+Kurs atau nilai tukar rupiah negara Indonesia ke mata uang negara Amerika Serikat selalu mengalami perubahan. Banyak faktor yang menyebabkan perubahan tersebut, antara lain tingkat inflasi, suku bunga, keadaan ekonomi dan politik, bahkan hutang negara. Ekspor Lada Hitam merupakan salah satu yang menyebabkan perubahan kurs tersebut yang berkaitan
+
+### Ruang lingkup
+
+Penelitian ini menggunakan data dengan subjek nilai ekspor lada putih dari negara Indonesia ke negara Amerika Serikat. Data diambil dari badan pusat statistik selama sembilan tahun (2012-2021). Data ini kemudian dibandingkan dengan data nilai tukar rupiah.
+
+### Rumusan masalah
+
+Dapatkah Ekspor Lada Putih ke Amerika Serikat Mempengaruhi Nilai Tukar Rupiah?
+
+### Tujuan dan manfaat penelitian
+
+Penelitian ini digunakan untuk mengetahui bagaimana Ekspor Lada Putih dapat mempengaruhi nilai tukar rupiah
+
+## Studi pustaka
+
+"Analisis Pengaruh Ekspor Lada Putih ke Negara Amerika Serikat Terhadap Nilai Tukar Rupiah Pada Tahun 2012-2021" dibuat berdasarkan data hasil alam yang berlimpah di Indonesia, pada komoditi lada hitam sebagai aspek utama dalam ekspor sektor perkebunan dan bagaimana dampak bagi nilai tukar rupiah.
+
+Menurut data Badan Pusat Statistik (2012-2021) ekspor tertinggi lada putih pada tahun 2012 dengan nilai ekspor USD 34,119.300 dan ekspor lada hitam terendah pada tahun 2019 dengan nilai ekspor USD  9,083.200.
+
+Ekspor adalah upaya melakukan penjualan komoditas di Indonesia kepada negara lain, dengan mengharapkan pembayaran dalam valuta asing, serta melakukan komoditi dengan memakai bahasa asing, Amir M. S (2004:1).
+
+Untuk itulah, dalam menanggapi bagaimana dampak nilai ekspor lada putih ke Amerika Serikat terhadap nilai tukar rupiah. Jurnal ini dibuat
+
+## Metode penelitian
+
+Teknik analisis yang digunakan dalam penelitian ini adalah teknik kuantitatif dan penjabaran deskriptif. Teknik analisis kuantitatif merupakan analisis yang dilakukan dengan perhitungan angka-angka yang faktor yang mempengaruhi indeks nilai tukar rupiah terhadap nilai ekspor lada putih ke Vietnam . Metode yang dipilih adalah regresi univariat atau Ordinary Least Square (OLS) dengan 1 variabel independen. Penelitian ini bermaksud mencari hubungan antara nilai tukar dan nilai ekspor. Spesifikasi yang dilakukan adalah:
+
+                                         y_t=β_0+β_1 x_t+μ_t
+
+Dimana: Yt adalah nilai tukar Dollar (Amerika Serikat)terhadap mata uang negara lain., β0 adalah koefisien konstanta; β1 adalah parameter; Xt adalah nilai ekspor dan μi adalah error term
+
+## Pembahasan
+
+### Pembahasan Masalah
+
+| Variabel  | Coeficient | Std.Error | t.value   | Prob           |
+|-----------|------------|-----------|-----------|----------------|
+| Intercept | 1.235e-03  | 6.793e-04 | 1.818e+00 | 0.107          |
+| X         | 1.516e+04  | 1.216e-12 | 1.247e+16 | \<2e-16 \*\*\* |
+
+| R-Squared          | 1          |
+|--------------------|------------|
+| Adjusted R-Squared | 1          |
+| F-Statistic        | 1.555e+32  |
+| Prob (F-Statistic) | \< 2.2e-16 |
+
+Ekspor lada putih berpengaruh terhadap nilai tukar. Di tunjukkan dengan di lihat dari probabilitas X ( Nilai Ekspor) yang signifikan. Dimana nilai ekspor sering menjadi faktor yang dapat mendorong naik dan turunnya kurs mata uang suatu negara. Nilai koefisien ekspor sebesar 1.516e+04 yang berarti kenaikan perubahan nilai ekspor erpengaaruh terhadap nilai kurs rupiah terhadap USD. Dengan hasil ini maka dapat di simpulkan bahwa pendapatan ekspor berpengaruh positif terhadap nilai tukar rupiah
+
+## Analisis Masalah
+
+### Data
+
+| Tahun | Nilai Ekspor (USD)  | Nilai Tukar (IDR)     |
+|-------|---------------------|-----------------------|
+| 2012  | \$ 1,214,788,000.00 | Rp 18,421,045,232,000 |
+| 2013  | \$ 753,337,000.00   | Rp 11,423,602,268,000 |
+| 2014  | \$ 359,789,000.00   | Rp 5,455,840,396,000  |
+| 2015  | \$ 779,144,000.00   | Rp 11,814,939,616,000 |
+| 2016  | \$ 491,485,000.00   | Rp 7,452,878,540,000  |
+| 2017  | \$ 283,535,000.00   | Rp 4,299,524,740,000  |
+| 2018  | \$ 81,849,000.00    | Rp 1,241,158,236,000  |
+| 2019  | \$ 70,258,000.00    | Rp 1,065,392,312,000  |
+| 2020  | \$ 88,144,000.00    | Rp 1,336,615,616,000  |
+| 2021  | \$ 6,956,000.00     | Rp 105,480,784,000    |
+
+```{r}
+library(readxl)
+dat<-read_excel('latihan.xlsx')
+reg1<-lm(Y~X,data=dat)
+summary(reg1)
+```
+
+## Kesimpulan
+
+Berdasarkan data hasil analisis kuantitatif yang telah dilakukan, setelah diamati ekspor lada putih ke negara Amerika Serikat berpengaruh positif terhadap nilai tukar rupiah dan lada merupakan salah satu komoditas rempah utama yang memiliki volume ekspor terbesar di Indonesia. Oleh sebab itu apabila ekspor lada putih ke negara Amerika Serikat berpengaruh positif terhadap nilai tukar rupiah maka mempengaruhi nilai kurs rupiah terhadap USD.
+
+## Referensi
+
+*Badan Pusat Statistik*. (n.d.). Retrieved January 19, 2023, from <https://www.bps.go.id/statictable/2019/02/25/2023/ekspor-lada-putih-menurut-negara-tujuan-utama-2012-2021.html>
+
+*Mengenal Apa Itu Ekspor Impor, Pengertian, Tujuan & Contohnya*. (n.d.). Retrieved January 19, 2023, from <https://www.cnbcindonesia.com/mymoney/20220511125907-72-338113/mengenal-apa-itu-ekspor-impor-pengertian-tujuan-contohnya>
+
+*Naik Lagi, Nilai Ekspor Lada Putih RI Capai US\$92,68 Juta pada 2021*. (n.d.). Retrieved January 19, 2023, from <https://databoks.katadata.co.id/datapublish/2022/10/26/naik-lagi-nilai-ekspor-lada-putih-ri-capai-us9268-juta-pada-2021>
+
+*USD to IDR - Penelusuran Google*. (n.d.). Retrieved January 19, 2023, from <https://www.google.com/search?q=USD+to+IDR&sxsrf=AJOqlzXnuA8B9rrNAW43b4rUgc0aC4snpw%3A1674123133598&ei=fRfJY6yTJPyR3LUP2N-k-A8&ved=0ahUKEwjsxcDVstP8AhX8CLcAHdgvCf8Q4dUDCA4&uact=5&oq=USD+to+IDR&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIECCMQJzIICAAQgAQQywEyBAgAEEMyCAgAEIAEEMsBMggIABCABBDLATIICAAQgAQQywEyCAgAEIAEEMsBMggIABCABBDLATIICAAQgAQQywEyBQgAEIAEOgoIABBHENYEELADOgcIABCwAxBDOgYILhAnEBM6CAgAEIAEELEDOgcIABCxAxBDOgYIABAKEEM6CAguELEDEIAEOgsILhCDARCxAxCABDoICAAQsQMQgwE6CwgAEIAEELEDEIMBOhEILhCABBCxAxCDARDHARCvAToMCAAQgAQQChBGEIICOgoIABCxAxCDARBDOg0IABCABBCxAxCDARAKOgcIIxCxAhAnOgoIABCABBAKEMsBOgcIABCABBAKSgQIQRgASgQIRhgAULwSWO9dYMlkaAdwAXgBgAGyBIgB-hmSAQwxLjEyLjIuMi4wLjGYAQCgAQHIAQrAAQE&sclient=gws-wiz-serp>
